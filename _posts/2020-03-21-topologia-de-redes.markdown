@@ -26,7 +26,7 @@ a disposição em série dos equipamentos, fazendo com que os dados passem
 por todas as estações que estiverem conectadas, mas apenas a recetora poderá
 reconhecê-los.
 
-![PontoAPonto](https://github.com/hackerocean/hackerocean.github.io/blob/master/_posts/images/topologia-de-redes/ponto-a-ponto.png) 
+![PontoAPonto](https://github.com/hackerocean/hackerocean.github.io/tree/master/_posts/images/topologia-de-redes/ponto-a-ponto.png) 
 
 * Barramento: Uma extrapolação das redes ponto-a-ponto. Aliás, muitas
 redes ponto-a-ponto utilizam-se de barramentos. Neste modelo de conexão, todos
@@ -35,11 +35,11 @@ de os dados não passarem por dentro de cada um dos nós, apenas uma
 máquina pode "escrever" no barramento num dado momento. Todas as outras
 "escutam" e recolhem para si os dados destinados a elas.
 
-![Barramento](https://github.com/hackerocean/hackerocean.github.io/blob/master/_posts/images/topologia-de-redes/barramento.png)
+![Barramento](https://github.com/hackerocean/hackerocean.github.io/tree/master/_posts/images/topologia-de-redes/barramento.png)
 
 * Anel: Essa topologia é constituída por um circuito fechado. As redes conhecidas como Token Ring (criadas pela IBM) são as mais famosas. Quando foram criadas, ofereciam uma taxa de transmissão bem mais elevada do que nas redes lineares, mas a adição de um número muito grande de máquinas no anel causava problemas de atraso, ruído e sincronização. Por isso mesmo, essa topologia caiu em desuso para redes locais. Em WANs, pelo contrário, como são poucos nós (um de cada rede local que se quer interligar), a topologia em anel é a mais indicada.
 
-![Anel](https://github.com/hackerocean/hackerocean.github.io/blob/master/_posts/images/topologia-de-redes/anel.jpg)
+![Anel](https://github.com/hackerocean/hackerocean.github.io/tree/master/_posts/images/topologia-de-redes/anel.jpg)
  
 * Estrela: Nesta topologia, toda a informação deve passar obrigatoriamente por uma central inteligente, que deve conectar cada estação da rede e distribuir o tráfego para que uma estação não receba, indevidamente, dados destinados às outras
 
