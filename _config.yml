@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Hacker Ocean
+description: Tecnologia e Segurança da Informação
+meta_description: "Hacker Ocean - Tecnologia e Segurança da Informação"
 
 markdown: kramdown
 highlighter: pygments
