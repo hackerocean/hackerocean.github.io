@@ -7,7 +7,7 @@ categories: Tutorial
 
 
 
-**Topologia de Redes** 
+
 
 **O que é Topologia de redes?**
 
