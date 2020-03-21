@@ -2,7 +2,7 @@
 layout: post
 title:  "Bem Vindo !"
 date:   2020-03-21 21:18:00
-categories: Thriller Comedy Horror
+categories: Notícia
 ---
 
 Olá seja bem-vindo ao blogue Hacker Ocean.
