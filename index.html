@@ -13,14 +13,14 @@ about: 'about.html'
                 </a>
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscrever</a>
-        <a class="subscribe-button icon-search" href="{{ site.baseurl }}{{ page.about }}">Sobre</a>
+        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}{{ page.about }}">Sobre</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <br/><a href='{{ site.baseurl }}{{ page.about }}'> <br/>Sobre nós </a> {% endif %}
+                {% if page.about %} <br/><a href='{{ site.baseurl }}{{ page.about }}'> Sobre nós </a> {% endif %}
             </h2>
         </div>
     </div>
