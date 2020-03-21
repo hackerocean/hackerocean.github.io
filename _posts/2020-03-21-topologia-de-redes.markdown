@@ -5,6 +5,8 @@ date:   2020-03-21 22:26:30
 categories: Tutorial
 ---
 
+
+
 **Topologia de Redes** 
 
 **O que é Topologia de redes?**
